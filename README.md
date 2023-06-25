@@ -4,7 +4,7 @@
 
 
 [![Linkedin: carrillofa](https://img.shields.io/badge/-carrillofa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carrillofa/)](https://www.linkedin.com/in/carrillofa/)
-[![GitHub fedect1](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/fedect1)
+[![GitHub fedect1](https://img.shields.io/github/followers/fedect1?label=follow&style=social)](https://github.com/fedect1)
 
 
 <h4>About me...</h4>
