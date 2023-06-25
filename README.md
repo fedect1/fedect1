@@ -1,6 +1,6 @@
 <h2> Hola, I'm Federico! 👋></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Studying software Enginner at <a href="http://www.unb.br">Coyotiv academy</a><img src="https://giphy.com/embed/nHzCW5eNgj0E8" width="30">
+
+<p><em>Studying software Enginner at <a href="http://www.unb.br">Coyotiv academy</a>
 
 
 [![Linkedin: carrillofa](https://img.shields.io/badge/-carrillofa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carrillofa/)](https://www.linkedin.com/in/carrillofa/)
