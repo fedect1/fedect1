@@ -1,6 +1,6 @@
-<h2> Hola, I'm Federico! 👋></h2>
+<h2> Hola, I'm Federico! 👋</h2>
 
-<p><em>Studying software Enginner at <a href="https://www.coyotiv.com">Coyotiv academy</a>
+<p><em>Studying software Enginner at <a href="https://www.coyotiv.com">Coyotiv academy</a></em></p>
 
 
 [![Linkedin: carrillofa](https://img.shields.io/badge/-carrillofa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carrillofa/)](https://www.linkedin.com/in/carrillofa/)
@@ -11,7 +11,7 @@
 <p>I'm Federico, originally from Rosario, Argentina, and for the past two years, I've been living in <b>Berlin</b>, Germany. I have recently made a decision to pursue a career change into the world of IT... With a burning passion for all things tech-related, I am eager to embark on this new journey and channel my energy towards software engineering and development.</p>
 
 ```Software developer in development, learning:
-const fede = {
+let fede = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [Vue.js, Node, MongoDB, Docker],
@@ -25,5 +25,5 @@ For me, software engineering is the perfect blend of my love for mathematics, lo
 
 <h4>Get in Touch</h4>
 📫 You can connect with me on LinkedIn.
-[![Linkedin: carrillofa](https://img.shields.io/badge/-carrillofa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carrillofa/)](https://www.linkedin.com/in/carrillofa/)
+
 ---
