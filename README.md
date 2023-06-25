@@ -1,6 +1,6 @@
 <h2> Hola, I'm Federico! 👋</h2>
 
-<p><em>Studying software Enginner at <a href="https://www.coyotiv.com">Coyotiv academy</a></em></p>
+<p><em>Studying software engineering at <a href="https://www.coyotiv.com">Coyotiv academy</a></em></p>
 
 
 [![Linkedin: carrillofa](https://img.shields.io/badge/-carrillofa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carrillofa/)](https://www.linkedin.com/in/carrillofa/)
